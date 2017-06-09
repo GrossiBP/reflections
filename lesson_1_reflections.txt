@@ -1,0 +1,41 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was quite ok, but I don't like it command view simply. I mix the asteriks with other characters.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can check different approaches and different ways how some solution was made and thus I can be more flexible
+and get more depth into the program and how it was prepared. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I control my logic and I know when it helps me and if I got failure I have offline version as well ready.
+It is though more convenient to have automatic ones but this must in my opinion requires cloud based storage where I need to 
+probably pay for it so you get better storage for more money. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    git is focused per one project and other like google doc is not meant to be used as a version control for big set of files. 
+It woould add too much logic and too much dependencies per each files - google docs is mostly cloud based online so seaerching ccould
+be time consuming etc. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log shows me all the commits with specific messages. The most up to date are presented from the top. If I want to see any 
+differences I can use git diff previousID newerID and see how many lines were modified. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I can be more secured about loggin my changes and I am able to easily find them in the code by using git diff command. I don't loose
+the sight on what was done and what was changed. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For continuing the course and later one use it to my own projects, depending on what it will be - probably first is for
+Machine Learning and later on maybe back to Java / Android - I whish I could finally finish one project. 
