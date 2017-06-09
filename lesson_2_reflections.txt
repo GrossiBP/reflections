@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize new git repository it is empty, means that there is no commit done so I need to perform the commang git commit I believe 
+in order to start logging my new history of files. At the moment I don't know how precisely the command must look like but next video 
+will show it to me. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I can focus only on files that are now modified and this gives me opportunity to conecntrage only on them. If my project works ok
+it means the modifications are ok and I can just think on modified files. Before commiting I can still test teh fiels and save also some
+time before doing for example somoe more sofrware buildned
