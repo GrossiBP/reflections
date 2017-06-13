@@ -5,3 +5,12 @@ If I use couple of places with different machines and get access and add new fil
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Someone else could make a change on a file that I don't want to have automatically on my local repository. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks are done on github webpage
+
+clones are the same repositories that can be obtain from remote location into local storage or can be done as well on local storage,
+branch is separate context that is done on one repository
+
+
